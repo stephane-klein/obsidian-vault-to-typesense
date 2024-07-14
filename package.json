@@ -1,0 +1,20 @@
+{
+  "name": "obsidian-vault-to-typesense",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "http-server": "http-server -p 8080 ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "10.3.12",
+    "gray-matter": "4.0.3",
+    "http-server": "14.1.1",
+    "js-yaml": "4.1.0",
+    "typesense": "1.8.2"
+  }
+}
